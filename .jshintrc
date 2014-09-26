@@ -4,17 +4,6 @@
     // Documentation: http://www.jshint.com/docs/
     "browser": true,
     "esnext": true,
-    "globals": {
-        "SNI": true,
-        "mdManager": true,
-        "s": true,
-        "VideoPlayerAd": true,
-        "$pdk": true,
-        "tpConsts": true,
-        "tpDebug": true,
-        "Player": true,
-        "console": true
-    },
     "globalstrict": true,
     "indent": 4,
     "jquery": true,
