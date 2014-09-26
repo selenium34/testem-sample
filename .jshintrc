@@ -1,0 +1,29 @@
+{
+    // Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
+    // Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+    // Documentation: http://www.jshint.com/docs/
+    "browser": true,
+    "esnext": true,
+    "globals": {
+        "SNI": true,
+        "mdManager": true,
+        "s": true,
+        "VideoPlayerAd": true,
+        "$pdk": true,
+        "tpConsts": true,
+        "tpDebug": true,
+        "Player": true,
+        "console": true
+    },
+    "globalstrict": true,
+    "indent": 4,
+    "jquery": true,
+    "quotmark": "single",
+    "smarttabs": true,
+    "strict": false,
+    "trailing": true,
+    "undef": true,
+    "unused": false,
+    "camelcase": false,
+    "newcap": false
+}
