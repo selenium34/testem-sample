@@ -2,7 +2,7 @@
   "framework": "qunit",
     "src_files": [
         "tests/instrumented.js",
-        "tests/unit/*.js"
+        "tests/js/*.js"
     ],
     "launch_in_dev": ["Firefox", "Chrome"]
 }

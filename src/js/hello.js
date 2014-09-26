@@ -1,3 +1,3 @@
 function hello(name) {
-    return 'Hello ' + (name || 'world');
+    return 'hello ' + (name || 'world');
 }
